@@ -14,8 +14,8 @@ To activate Network Watcher
 3. Click on the three dots to the right and select "Enable network watcher"
 
 # 3. Azure Functions configuration
-   1. MSI
-# 5. Create Azure Functions code
+## 1. Configure MSI
+## 2. Write Azure Functions Code
 
 To run and debug Azure functions locally with Visual Studio Code, you need the following requirements:
 - Install PowerShell Core
