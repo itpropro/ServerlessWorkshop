@@ -27,6 +27,7 @@ To configure the Azure Function to use an managed service identity browse to the
 2. Set the status for a system assigned identity to On and save
 
 ![fapp2](/images/ServerlessWorkshop-0013.jpg) 
+
 3. Configure permissions by adding the role !role! at the subscription scope for the MSI
 
 ## 2. Write Azure Functions Code
