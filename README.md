@@ -23,7 +23,9 @@ To activate Network Watcher
 To configure the Azure Function to use an managed service identity browse to the Function Apps pane in the Azure Portal and select the Function App where you want to enable a MSI
 1. On the platform features pane of your function app select the Identity option found under the category Networking
 ![fapp1](/images/ServerlessWorkshop-0012.jpg) 
+
 2. Set the status for a system assigned identity to On and save
+
 ![fapp2](/images/ServerlessWorkshop-0013.jpg) 
 3. Configure permissions by adding the role !role! at the subscription scope for the MSI
 
