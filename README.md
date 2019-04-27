@@ -2,7 +2,10 @@
 
 # 1. Setup/Preparation
 ## 1. VMs
-![GitHub Logo](/images/logo.png)
+![Log Analytics parameters](/images/ServerlessWorkshop-0010.jpg)
+![Log Analytics parameters](/images/ServerlessWorkshop-0009.jpg)
+![Log Analytics parameters](/images/ServerlessWorkshop-0008.jpg)
+![Log Analytics parameters](/images/ServerlessWorkshop-0007.jpg)
 ## 2. Azure Function
 ![GitHub Logo](/images/logo.png)
 ## 3. Logic App
