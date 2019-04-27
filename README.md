@@ -6,8 +6,13 @@
 ![Log Analytics parameters](/images/ServerlessWorkshop-0009.jpg)
 ![Log Analytics parameters](/images/ServerlessWorkshop-0008.jpg)
 ![Log Analytics parameters](/images/ServerlessWorkshop-0007.jpg)
+![Log Analytics parameters](/images/ServerlessWorkshop-0006.jpg)
+![Log Analytics parameters](/images/ServerlessWorkshop-0005.jpg)
+![Log Analytics parameters](/images/ServerlessWorkshop-0004.jpg)
 ## 2. Azure Function
-![GitHub Logo](/images/logo.png)
+![Log Analytics parameters](/images/ServerlessWorkshop-0014.jpg)
+![Log Analytics parameters](/images/ServerlessWorkshop-0015.jpg)
+![Log Analytics parameters](/images/ServerlessWorkshop-0016.jpg)
 ## 3. Logic App
 ![Log Analytics parameters](/images/ServerlessWorkshop-0000.jpg)
 # 2. Network Watcher configuration
